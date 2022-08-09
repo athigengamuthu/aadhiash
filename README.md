@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AR/VR, Blockchain, IOT
 - 💞️ I’m looking to collaborate on projects related to web 3.0 (AR/VR) & IOT
 - 📫 How to reach me @ email  : aadhiash2002@gmail.com
--                    @ Linkedin: Aadhiash (preferable)
+-                    @ Linkedin: https://www.linkedin.com/in/aadhiash/
 
 <!---
 aadhiash/aadhiash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
